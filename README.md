@@ -13,7 +13,8 @@ PS: Thanks!
   - **[Time is over](https://github.com/DenisMatsenko/Time-Is-Over-TS)** - Tests & homework reminder in Discord for my school class
 
 ### Programming Languages & Technologies with which I have relative experience
-![test](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/Js-20232A?style=for-the-badge&logo=js&logoColor=61DAFB)
 
 <!--
 **DenisMatsenko/DenisMatsenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
