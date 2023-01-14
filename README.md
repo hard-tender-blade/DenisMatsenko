@@ -1,8 +1,3 @@
-<!--
-steal, stole, stolen. https://github.com/krystofex/krystofex/edit/main/README.md
-PS: Thanks!
--->
-
 # 🧛🏻‍♀️ About me
   - I am a computer science student
   - My hobbies are walking in the woods and drawing sad girls
@@ -18,7 +13,7 @@ PS: Thanks!
   <a href="https://discord.com/users/538343406326513704">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-
+<!--
 ## 📚 Programming languages & technologies with which I have experience
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JS](https://img.shields.io/badge/Java_Script-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -30,22 +25,3 @@ PS: Thanks!
 ![C#](https://img.shields.io/badge/C%23-8d3aa3?style=for-the-badge&logo=c-sharp&logoColor=ffffff)
 ![Unity](https://img.shields.io/badge/Unity-303030?style=for-the-badge&logo=unity&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/git-c74e08?style=for-the-badge&logo=git&logoColor=white)
-
-
-
-
-
-<!--
-**DenisMatsenko/DenisMatsenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
