@@ -5,9 +5,11 @@
   - **[Time is over](https://github.com/DenisMatsenko/Time-Is-Over-TS)** - Tests & homework reminder in Discord for my school class
   
 ## 📢 Contacts
-  - Telegram: <a href="https://t.me/hardtenderblade">hardtenderblade</a>
-  - Discord: <a href="https://discord.com/users/538343406326513704">hard.tender.blade#1292</a>
   - Email: <a href="mailto:matsenkodenis0@gmail.com">matsenkodenis0@gmail.com</a>
+  - Discord: <a href="https://discord.com/users/538343406326513704">hard.tender.blade#1292</a>
+  - Telegram: <a href="https://t.me/hardtenderblade">@hardtenderblade</a>
+  
+  
 
 <!--   <a href="mailto:matsenkodenis0@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
