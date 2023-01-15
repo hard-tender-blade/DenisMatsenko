@@ -1,18 +1,21 @@
 # 🧛🏻‍♀️ About me
-  - I am a computer science student
   - My hobbies are walking in the woods and drawing sad girls
   - I am trying to find myself in IT
 ## 🕹 The main projects I am working on right now..
   - **[Time is over](https://github.com/DenisMatsenko/Time-Is-Over-TS)** - Tests & homework reminder in Discord for my school class
   
 ## 📢 Contacts
-  <a href="mailto:matsenkodenis0@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  - Telegram: <a href="https://t.me/hardtenderblade">hardtenderblade</a>
+  - Discord: <a href="https://discord.com/users/538343406326513704">hard.tender.blade#1292</a>
+  - Email: <a href="mailto:matsenkodenis0@gmail.com">matsenkodenis0@gmail.com</a>
 
-  <a href="https://discord.com/users/538343406326513704">
+<!--   <a href="mailto:matsenkodenis0@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a> -->
+
+<!--   <a href="https://discord.com/users/538343406326513704">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
+  </a> -->
 <!--
 ## 📚 Programming languages & technologies with which I have experience
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
